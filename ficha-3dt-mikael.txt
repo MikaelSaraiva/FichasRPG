@@ -1,4 +1,4 @@
-10 pontos + 8 pontos
+10 pontos + 6 pontos
 
 Khada - Elfo Negro(2 pontos) 
 
@@ -11,21 +11,20 @@ Magia: Elfos negros recebem Magia Branca ou negra sem pagar pontos.
 
 Ponto Fraco: À luz do dia, elfos negros sofrem penalidade temporaria de -1 em todas as caracteristicas e precisam gastar duas vezes mais PMs para lançar magia
 
+Pistoleiro(2 pontos)
+
+Vantagens: recebe PdF+1 (até o maximo de 5) e Genialidade gratuitamento: pode comprar Tiro carregavel e Tiro Multiplo por 1 ponto cada.
+
+Desvantagens: Vulnerabilidade: Calor/Fogo e Eletrico.
+
+Pontos de vida e Magia: Rx5
+
+
 Vatangens:
 
 Aceleração(1 ponto)
-Adaptador(1 ponto)*
-Aparecencia Inofensiva(1 ponto)*
-Ataque especial(1 ponto): Paralisante(+1 ponto)
-			  Penetrante(+1 ponto, +1 PM)
+Ataque especial(1 ponto): Penetrante(+1 ponto, +1 PM)
 			  Perigoso(+2 pontos, +2 PM)
-			  Poderoso(+2 pontos, +2 PM)
-			  Preciso(+1 ponto)
-Boa fama(1 ponto)
-Imortal(1-2 pontos)
-Invisibilidade(2 pontos)*
-Paralisia(1 ponto)
-Pontos de Magia(1 ponto cada)
 Tiro Carregavel(1 ponto)
 
 Desvantagens:
@@ -35,5 +34,15 @@ Codigo de Honra(-1 ponto cada): Codigo de Caçador
 				Codigo de derrota*
 Dependencia(-2 pontos): Tutano
 Fetiche(-1 ponto)
-Homicida(-2 pontos)
+
+
+12 pontos
+
+6
+
+Força: 0 
+Habilidade: 2
+Resistencia: 1
+Armadura: 0  
+Poder de Fogo: 3
 
