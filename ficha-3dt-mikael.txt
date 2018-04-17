@@ -3,13 +3,15 @@
 Khada - Elfo Negro(2 pontos) 
 
 Habilidade +1: Elfos negros são mais ageis que os humanos.
-Infravisão. Como criaturas das trevas, habitantes de impérios subterraneos, elfos negros enxergam perfeitamente no escuro.
+Infravisão: Como criaturas das trevas, habitantes de impérios subterraneos, elfos negros enxergam perfeitamente no escuro.
 
 Resistencia à Magia: Elfos negros tem extrema resistencia a poderes magicos.
 
 Magia: Elfos negros recebem Magia Branca ou negra sem pagar pontos.
 
 Ponto Fraco: À luz do dia, elfos negros sofrem penalidade temporaria de -1 em todas as caracteristicas e precisam gastar duas vezes mais PMs para lançar magia
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pistoleiro(2 pontos)
 
@@ -19,6 +21,7 @@ Desvantagens: Vulnerabilidade: Calor/Fogo e Eletrico.
 
 Pontos de vida e Magia: Rx5
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Vatangens:
 
@@ -35,70 +38,60 @@ Codigo de Honra(-1 ponto cada): Codigo de Caçador
 Dependencia(-2 pontos): Tutano
 Fetiche(-1 ponto)
 
-Magias:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Arpão: Uma onda de choque na forma de um arpão é lançada em velocidade supersonica, em geral destruindo o alvo com FA = H + 6d.
+Magias Iniciais:
 
-Custo: 15 PMs
+Ataque Magico
+
+Custo: 1 a 5 PMs
 Alcance: longo
-Duração: intantanea
+Duração: instantânea
 
-Ataque vorpal
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Custo: 1 PM por turno
+Cancelamento de Mágia
+
+Custo: duas vezes o custo original
 Alcance: curto
-Duração: sustentavel
+Duração: permanente
 
-Aumenta o dano
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Custo: 1 a 5 PMs por turno
-Alcance: curto
-Duração: sustentavel
-
-Coma*
-
-Custo: 20 PMs
-Alcance: toque
-Duração: permanente até cancelada
-
-Detecção de Magia
+Detecção de Mágia
 
 Custo: 1 PM
 Alcance: longo
-Duração: sustentave l
+Duração: sustentaável
 
-Explosão
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Custo: 2PM para cada 1d de dano 
-Alcance: longo
-Duração: instantanea
+Força Mágica
 
-Ilusão
-
-Custo: 1 - 10 PMs
-Alcance: longo
+Custo: 2 a 10 PMs
+Alcance: curto
 Duração: sustentavel
 
-Panico
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Custo: 2 PM por criatura
-Alcance: longo
-Duração: sustentavel
-
-Reflexos
-
-Custo: 2 PMs
-Alcance: pessoal
-Duração: sustentavel
-
-Roubo de magia 
+Pequenos Desejos
 
 Custo: 0
-Alcance: toque
-Duração: 
+Alcance: curto
+Duração: sustentável ou 1 hora
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Proteção Mágica
+
+Custo: 2 a 10 PMs
+Alcance: curto
+Duração: sustentavel
 
 ---------------------------------------------------------------------------------------
+
+
+
 12 pontos
 
 6
@@ -108,4 +101,8 @@ Habilidade: 2 + 1
 Resistencia: 1
 Armadura: 0  
 Poder de Fogo: 3 + 1
+
+
+Histórinha:
+
 
