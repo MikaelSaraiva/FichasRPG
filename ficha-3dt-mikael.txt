@@ -105,7 +105,7 @@ Poder de Fogo: 3 + 1
 
 Histórinha:
 
-Jhin é um meticuloso psicopata criminoso que acredita que assassinato é arte. Outrora um prisioneiro ioniano, mas libertado por membros obscuros do conselho regimental de Ionia, o assassino serial agora trabalha como assassino de seu conluio. Usando a própria arma como pincel, Jhin cria obras de brutalidade artística, horrorizando vítimas e espectadores. Ele obtém prazer cruel ao fazer suas apresentações nefastas, tornando-o a melhor escolha a se enviar para a mais poderosa das mensagens: terror.
+Khada é um meticuloso psicopata criminoso que acredita que assassinato é arte. Outrora um prisioneiro <inserir cidade/local>, mas libertado por membros obscuros do conselho regimental de <inserir cidade/local>, o assassino serial agora trabalha como assassino de seu conluio. Usando a própria arma como pincel, Jhin cria obras de brutalidade artística, horrorizando vítimas e espectadores. Ele obtém prazer cruel ao fazer suas apresentações nefastas, tornando-o a melhor escolha a se enviar para a mais poderosa das mensagens: terror.
 
 Por anos, as montanhas ao sul de Ionia foram assoladas pelo infame "Demônio Dourado". Por toda a província de Zhyun, um monstro massacrou dezenas de viajantes e, às vezes, fazendas inteiras, deixando para trás uma exibição perversa de cadáveres. Milícias armadas buscaram as florestas, vilarejos contrataram caçadores de demônios, mestres Wuju patrulharam as estradas - mas nada deteve o trabalho cruel da besta.
 
